@@ -1,0 +1,113 @@
+.disc {
+    list-style: none;
+}
+
+.disc a {
+    text-decoration: none;
+}
+
+.hover {
+    text-decoration: none;
+}
+
+.hover:hover {
+    opacity: 0.9;
+}
+
+.image {
+    background-image: url("images/AdobeStock_252697579.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg {
+    background-color: black;
+    opacity: 0.5;
+}
+
+.first img:hover {
+    opacity: 0.5;
+    transition: 1s;
+}
+
+.b {
+    background-color: rgb(233, 237, 242);
+}
+
+.mida {
+    list-style: none;
+}
+.bac:hover{
+    background-color: rgb(233, 237, 242) ;
+}
+.fs{
+    font-size: 50px;
+}
+.images {
+    background-image: url("images/AdobeStock_252697579.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bh{
+    background-color: rgb(204, 8, 8);
+    opacity: 0.9;
+}
+.c{
+    border-right: 1px solid gray;
+}
+.bor{
+    border-left: 6px solid green;
+}
+.f{
+    font-size: 45px;
+}
+.fs{
+    font-size: 73px;
+}
+.ita{
+    font-style: italic;
+}
+.same{
+    width: 350px;
+    height: 70px;
+    background-color:rgb(204, 8, 8) ;
+    border:2px solid white;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+.at{
+    width: 700px;
+    background-color:rgb(204, 8, 8) ;
+    border:2px solid white;
+    border-radius: 8px;
+}
+::placeholder{
+    color: white;
+}
+.back{
+    background-color: white;
+    color: black;
+}
+.but{
+    border:2px solid white;
+    border-radius: 8px;
+    width: 300px;
+    padding: 20px;
+    font-size: 20px;
+    color: red;
+}
+.but:hover{
+    background-color: rgb(219, 220, 221);
+}
+.end{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.las a{
+    color: red;
+}
+.all a:hover{
+    opacity: 0.7;
+}
